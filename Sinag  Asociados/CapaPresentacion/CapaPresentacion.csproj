@@ -1,0 +1,475 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{67BBB5D8-01C3-4FCD-BB94-F9F88C8B8F3D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MenuMaquinaria.aspx" />
+    <Content Include="MenuServicio.aspx" />
+    <Content Include="V_ClienteEliminar.aspx" />
+    <Content Include="V_Cliente_Consultar.aspx" />
+    <Content Include="V_Empleado_Consultar.aspx" />
+    <Content Include="V_Empleado_Eliminar.aspx" />
+    <Content Include="V_MaquinariaModificar.aspx" />
+    <Content Include="V_MaquinariaRegistrar.aspx" />
+    <Content Include="MenuCliente.aspx" />
+    <Content Include="V_ClienteModificar.aspx" />
+    <Content Include="V_ClienteRegistrar.aspx" />
+    <Content Include="MenuCronograma.aspx" />
+    <Content Include="V_CronogramaModificar.aspx" />
+    <Content Include="V_CronogramaRegistrar.aspx" />
+    <Content Include="MenuEmpleado.aspx" />
+    <Content Include="V_EmpleadoModificar.aspx" />
+    <Content Include="V_EmpleadoRegistrar.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\core.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\list.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\path.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.eot" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.ttf" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.woff2" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Black.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-BlackItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Bold.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-BoldItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-ExtraBold.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-ExtraBoldItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-ExtraLight.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-ExtraLightItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Italic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Light.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-LightItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Medium.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-MediumItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Regular.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-SemiBold.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-SemiBoldItalic.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-Thin.ttf" />
+    <Content Include="Diseño\fonts\poppins\Poppins-ThinItalic.ttf" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap.css.map" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <Content Include="Principal.aspx" />
+    <Content Include="principal\css\bootstrap-theme.css.map" />
+    <Content Include="principal\css\bootstrap-theme.min.css.map" />
+    <Content Include="principal\css\bootstrap.css.map" />
+    <Content Include="principal\css\bootstrap.min.css.map" />
+    <Content Include="principal\fonts\fontawesome-webfont.eot" />
+    <Content Include="principal\fonts\fontawesome-webfont.ttf" />
+    <Content Include="principal\fonts\fontawesome-webfont.woff" />
+    <Content Include="principal\fonts\fontawesome-webfont.woff2" />
+    <Content Include="principal\fonts\FontAwesome.otf" />
+    <Content Include="principal\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="principal\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="principal\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="principal\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="principal\sass\.sass-cache\deff34d1f5b7167181b556002c25068d6adc024d\styles.scssc" />
+    <Content Include="principal\sass\styles.scss" />
+    <Content Include="principal\tables\data1.json" />
+    <Content Include="principal\tables\data2.json" />
+    <Content Include="MasterPage.Master" />
+    <Content Include="BIBLIOTECADataSet.xsc">
+      <DependentUpon>BIBLIOTECADataSet.xsd</DependentUpon>
+    </Content>
+    <None Include="BIBLIOTECADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BIBLIOTECADataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="BIBLIOTECADataSet.xss">
+      <DependentUpon>BIBLIOTECADataSet.xsd</DependentUpon>
+    </Content>
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Diseño\css\main.css" />
+    <Content Include="Diseño\css\util.css" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="Diseño\fonts\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\icon-font.min.css" />
+    <Content Include="Diseño\fonts\Linearicons-Free-v1.0.0\WebFont\Linearicons-Free.svg" />
+    <Content Include="Diseño\images\bg-01.jpg" />
+    <Content Include="Diseño\images\icons\favicon.ico" />
+    <Content Include="Diseño\images\icons\map-marker.png" />
+    <Content Include="Diseño\js\main.js" />
+    <Content Include="Diseño\js\map-custom.js" />
+    <Content Include="Diseño\vendor\animate\animate.css" />
+    <Content Include="Diseño\vendor\animsition\css\animsition.css" />
+    <Content Include="Diseño\vendor\animsition\css\animsition.min.css" />
+    <Content Include="Diseño\vendor\animsition\js\animsition.js" />
+    <Content Include="Diseño\vendor\animsition\js\animsition.min.js" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="Diseño\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Diseño\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="Diseño\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Diseño\vendor\bootstrap\js\popper.js" />
+    <Content Include="Diseño\vendor\bootstrap\js\popper.min.js" />
+    <Content Include="Diseño\vendor\bootstrap\js\tooltip.js" />
+    <Content Include="Diseño\vendor\countdowntime\countdowntime.js" />
+    <Content Include="Diseño\vendor\css-hamburgers\hamburgers.css" />
+    <Content Include="Diseño\vendor\css-hamburgers\hamburgers.min.css" />
+    <Content Include="Diseño\vendor\daterangepicker\daterangepicker.css" />
+    <Content Include="Diseño\vendor\daterangepicker\daterangepicker.js" />
+    <Content Include="Diseño\vendor\daterangepicker\moment.js" />
+    <Content Include="Diseño\vendor\daterangepicker\moment.min.js" />
+    <Content Include="Diseño\vendor\jquery\jquery-3.2.1.min.js" />
+    <Content Include="Diseño\vendor\perfect-scrollbar\perfect-scrollbar.css" />
+    <Content Include="Diseño\vendor\perfect-scrollbar\perfect-scrollbar.min.js" />
+    <Content Include="Diseño\vendor\select2\select2.css" />
+    <Content Include="Diseño\vendor\select2\select2.js" />
+    <Content Include="Diseño\vendor\select2\select2.min.css" />
+    <Content Include="Diseño\vendor\select2\select2.min.js" />
+    <Content Include="Login.aspx" />
+    <Content Include="principal\css\bootstrap-table.css" />
+    <Content Include="principal\css\bootstrap-theme.css" />
+    <Content Include="principal\css\bootstrap-theme.min.css" />
+    <Content Include="principal\css\bootstrap.css" />
+    <Content Include="principal\css\bootstrap.min.css" />
+    <Content Include="principal\css\datepicker.css" />
+    <Content Include="principal\css\datepicker3.css" />
+    <Content Include="principal\css\font-awesome.min.css" />
+    <Content Include="principal\css\styles.css" />
+    <Content Include="principal\fonts\fontawesome-webfont.svg" />
+    <Content Include="principal\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="principal\js\bootstrap-datepicker.js" />
+    <Content Include="principal\js\bootstrap.js" />
+    <Content Include="principal\js\bootstrap.min.js" />
+    <Content Include="principal\js\chart-data.js" />
+    <Content Include="principal\js\chart.min.js" />
+    <Content Include="principal\js\custom.js" />
+    <Content Include="principal\js\easypiechart-data.js" />
+    <Content Include="principal\js\easypiechart.js" />
+    <Content Include="principal\js\html5shiv.min.js" />
+    <Content Include="principal\js\jquery-1.11.1.min.js" />
+    <Content Include="principal\js\lumino.glyphs.js" />
+    <Content Include="principal\js\npm.js" />
+    <Content Include="principal\js\respond.min.js" />
+    <Content Include="V_R_M_C\pag1.html" />
+    <Content Include="V_R_M_C\pag2.html" />
+    <Content Include="V_R_M_C\registrar.jpeg" />
+    <Content Include="V_R_M_C\textbox.jpeg" />
+    <Content Include="V_R_M_C\vistas.html" />
+    <Content Include="V_ServicioModificar.aspx" />
+    <Content Include="V_ServicioRegistrar.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BIBLIOTECADataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BIBLIOTECADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dim.cs" />
+    <Compile Include="MenuMaquinaria.aspx.cs">
+      <DependentUpon>MenuMaquinaria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuMaquinaria.aspx.designer.cs">
+      <DependentUpon>MenuMaquinaria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuServicio.aspx.cs">
+      <DependentUpon>MenuServicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuServicio.aspx.designer.cs">
+      <DependentUpon>MenuServicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_ClienteEliminar.aspx.cs">
+      <DependentUpon>V_ClienteEliminar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_ClienteEliminar.aspx.designer.cs">
+      <DependentUpon>V_ClienteEliminar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_Cliente_Consultar.aspx.cs">
+      <DependentUpon>V_Cliente_Consultar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_Cliente_Consultar.aspx.designer.cs">
+      <DependentUpon>V_Cliente_Consultar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_Empleado_Consultar.aspx.cs">
+      <DependentUpon>V_Empleado_Consultar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_Empleado_Consultar.aspx.designer.cs">
+      <DependentUpon>V_Empleado_Consultar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_Empleado_Eliminar.aspx.cs">
+      <DependentUpon>V_Empleado_Eliminar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_Empleado_Eliminar.aspx.designer.cs">
+      <DependentUpon>V_Empleado_Eliminar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_MaquinariaModificar.aspx.cs">
+      <DependentUpon>V_MaquinariaModificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_MaquinariaModificar.aspx.designer.cs">
+      <DependentUpon>V_MaquinariaModificar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_MaquinariaRegistrar.aspx.cs">
+      <DependentUpon>V_MaquinariaRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_MaquinariaRegistrar.aspx.designer.cs">
+      <DependentUpon>V_MaquinariaRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCliente.aspx.cs">
+      <DependentUpon>MenuCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuCliente.aspx.designer.cs">
+      <DependentUpon>MenuCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_ClienteModificar.aspx.cs">
+      <DependentUpon>V_ClienteModificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_ClienteModificar.aspx.designer.cs">
+      <DependentUpon>V_ClienteModificar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_ClienteRegistrar.aspx.cs">
+      <DependentUpon>V_ClienteRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_ClienteRegistrar.aspx.designer.cs">
+      <DependentUpon>V_ClienteRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuCronograma.aspx.cs">
+      <DependentUpon>MenuCronograma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuCronograma.aspx.designer.cs">
+      <DependentUpon>MenuCronograma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_CronogramaModificar.aspx.cs">
+      <DependentUpon>V_CronogramaModificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_CronogramaModificar.aspx.designer.cs">
+      <DependentUpon>V_CronogramaModificar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_CronogramaRegistrar.aspx.cs">
+      <DependentUpon>V_CronogramaRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_CronogramaRegistrar.aspx.designer.cs">
+      <DependentUpon>V_CronogramaRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEmpleado.aspx.cs">
+      <DependentUpon>MenuEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MenuEmpleado.aspx.designer.cs">
+      <DependentUpon>MenuEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_EmpleadoModificar.aspx.cs">
+      <DependentUpon>V_EmpleadoModificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_EmpleadoModificar.aspx.designer.cs">
+      <DependentUpon>V_EmpleadoModificar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_EmpleadoRegistrar.aspx.cs">
+      <DependentUpon>V_EmpleadoRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_EmpleadoRegistrar.aspx.designer.cs">
+      <DependentUpon>V_EmpleadoRegistrar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.aspx.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.aspx.designer.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="V_ServicioModificar.aspx.cs">
+      <DependentUpon>V_ServicioModificar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_ServicioModificar.aspx.designer.cs">
+      <DependentUpon>V_ServicioModificar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="V_ServicioRegistrar.aspx.cs">
+      <DependentUpon>V_ServicioRegistrar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="V_ServicioRegistrar.aspx.designer.cs">
+      <DependentUpon>V_ServicioRegistrar.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DatosDeCapa\DatosCapa.csproj">
+      <Project>{48E567CD-EB0B-4F3D-BFAE-A7BE3A510789}</Project>
+      <Name>DatosCapa</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LogicaCapa\LogicaCapa.csproj">
+      <Project>{876DB8EE-2B98-42BF-A05E-4C155607C08E}</Project>
+      <Name>LogicaCapa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>52761</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55095/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.3.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.3\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,393 @@
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+E:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+G:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+E:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ARREGLO\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+G:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+G:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+G:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+G:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+E:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+E:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll.config
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+E:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+E:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+E:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+E:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+E:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll.config
+E:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+E:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+F:\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll.config
+F:\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+F:\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+F:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+F:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.exe.config
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\csc.rsp
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.exe
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\csi.rsp
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.AppContext.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.exe.config
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\vbc.rsp
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.pdb
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\DatosDeCapa.dll.config
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\LogicaCapa.pdb
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\PROYECTO_SENA\ProyectoEstampados\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

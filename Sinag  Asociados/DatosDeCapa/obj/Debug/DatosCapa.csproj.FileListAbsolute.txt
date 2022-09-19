@@ -1,0 +1,50 @@
+E:\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+E:\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+E:\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\LogicaCapa.dll
+E:\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\LogicaCapa.pdb
+E:\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojResolveAssemblyReference.cache
+E:\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+E:\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojAssemblyReference.cache
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+E:\FARID GOMEZ\Visual\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+C:\Users\Estudiante\Desktop\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojAssemblyReference.cache
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+E:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojResolveAssemblyReference.cache
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+F:\ARREGLO\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+G:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+G:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+G:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojResolveAssemblyReference.cache
+G:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+G:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+G:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+E:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+E:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+E:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojAssemblyReference.cache
+E:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csproj.CoreCompileInputs.cache
+E:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+E:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb
+E:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll.config
+F:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll.config
+F:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.dll
+F:\ProyectoEstampados\DatosDeCapa\bin\Debug\DatosDeCapa.pdb
+F:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosCapa.csprojAssemblyReference.cache
+F:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.dll
+F:\ProyectoEstampados\DatosDeCapa\obj\Debug\DatosDeCapa.pdb

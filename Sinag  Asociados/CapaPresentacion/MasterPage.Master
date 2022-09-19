@@ -1,0 +1,97 @@
+﻿<%@  Master Language="C#"  AutoEventWireup="true"  CodeBehind="MasterPage.master.cs" Inherits="CapaPresentacion.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>techito linea 10</title>
+	<link href="Principal/css/bootstrap.min.css" rel="stylesheet">
+	<link href="Principal/css/font-awesome.min.css" rel="stylesheet">
+	<link href="Principal/css/datepicker3.css" rel="stylesheet">
+	<link href="Principal/css/styles.css" rel="stylesheet">
+	
+	<!--Custom Font-->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+	<!----Iconos----->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"/>
+   <style>
+    .enlace:link, .enlace:visited {
+        text-decoration:none;
+    }
+   </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+      <form id="form1" runat="server">
+
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="Inicio.aspx"><span>Promocionales Bogota</span></a>
+			</div>
+		</div><!-- /.container-fluid -->
+	</nav>
+	<div id="sidebar-collapse" class="col-sm-3 col-lg-2 sidebar">
+		<ul class="nav menu">
+			<li style="color:#222222;"><a href="Principal.aspx"><i class="fas fa-home">&nbsp;</i>Inicio</a></li>
+			<li style="color:#222222;"><a href="MenuCliente.aspx"><i class="fas fa-user">&nbsp;</i>Cliente</a></li>
+			<li style="color:#222222;"><a href="MenuEmpleado.aspx"><i class="fas fa-address-card">&nbsp;</i>Empleado</a></li>
+			<li style="color:#222222;"><a href="Cronograma.aspx"><i class="fas fa-cash-register">&nbsp;</i>Factura</a></li>
+			<li style="color:#222222;"><a href="Maquinaria.aspx"><i class="fas fa-shopping-basket">&nbsp;</i>Maquinaria</a></li>
+            <li style="color:#222222;"><a href="Servicio.aspx"><i class="fas fa-portrait">&nbsp;</i>Servicio</a></li>
+			<li class="enlace" style="color:#222222; padding-left:15px;"><i class="fas fa-power-off"></i><asp:Button ID="CERRAR_SESION" BackColor="#FFFFFF" BorderStyle="None" BorderWidth="0px" runat="server" Text="Cerrar Sesion" OnClick="Button2_Click" /></li>
+            
+		</ul>
+	</div><!--/.sidebar-->
+		
+	<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+		<div class="row">
+			<ol class="breadcrumb">
+				<li><a href="Principal.aspx">
+					<i class="fas fa-home" style="color:#22CCFF"></i>
+				</a></li>
+				<li><a href="Principal.aspx" class="enlace" style="color:#222222;">Inicio</a></li>
+                <li><a href="MenuCliente.aspx"><i class="fas fa-user" style="color:#22CCFF"></i></a></li>
+                <li><a href="MenuCliente.aspx" class="enlace" style="color:#222222;">Cliente</a></li>
+                <li><a href="MenuEmpleado.aspx"><i class="fas fa-address-card" style="color:#22CCFF"></i></a></li>
+                <li><a href="MenuEmpleado.aspx" class="enlace" style="color:#222222;">Empleado</a></li>
+                <li><a href="Maquinaria.aspx"><i class="fas fa-cash-register" style="color:#22CCFF"></i></a></li>
+                <li><a href="Maquinaria.aspx" class="enlace" style="color:#222222;">Maquinaria</a></li>
+                <li><a href="Servicio.aspx"><i class="fas fa-shopping-basket" style="color:#22CCFF"></i></a></li>
+                <li><a href="Servicio.aspx" class="enlace" style="color:#222222;">Servicio</a></li>
+                <li><a href="Cronograma.aspx"><i class="fas fa-portrait"></i></a></li>
+                <li><a href="Cronograma.aspx" class="enlace" style="color:#222222;">Factura</a></li>
+			</ol>
+		</div><!--/.row-->
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+	</div>	<!--/.main-->
+	
+	<script src="Principal/js/jquery-1.11.1.min.js"></script>
+	<script src="Principal/js/bootstrap.min.js"></script>
+	<script src="Principal/js/chart.min.js"></script>
+	<script src="Principal/js/chart-data.js"></script>
+	<script src="Principal/js/easypiechart.js"></script>
+	<script src="Principal/js/easypiechart-data.js"></script>
+	<script src="Principal/js/bootstrap-datepicker.js"></script>
+	<script src="Principal/js/custom.js"></script>
+	<script>
+		window.onload = function () {
+	var chart1 = document.getElementById("line-chart").getContext("2d");
+	window.myLine = new Chart(chart1).Line(lineChartData, {
+	responsive: true,
+	scaleLineColor: "rgba(0,0,0,.2)",
+	scaleGridLineColor: "rgba(0,0,0,.05)",
+	scaleFontColor: "#c5c7cc"
+	});
+};
+	</script>
+    </form>
+  
+</body>
+</html>
